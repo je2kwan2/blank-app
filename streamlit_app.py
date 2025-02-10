@@ -6,3 +6,5 @@ st.write(
 )
 
 st.write("hi, hello world")
+
+st.sidebar.success("Select a demo above.")
